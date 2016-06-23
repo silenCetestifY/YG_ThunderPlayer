@@ -18,7 +18,7 @@ s.requires_arc = true
 
 s.source_files = 'YG_ThunderPlayer/**/*.{h,m}'
 
-s.resource     = '/YG_ThunderPlayer.bundle'
+s.resource     = 'YG_ThunderPlayer.bundle'
 
 s.frameworks = 'Foundation', 'AVFoundation', 'UIKit'
 
