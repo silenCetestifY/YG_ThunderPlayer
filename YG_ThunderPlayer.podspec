@@ -16,7 +16,7 @@ s.platform     = :ios, '8.0'
 
 s.requires_arc = true
 
-s.source_files = 'YG_ThunderPlayer/**/*.{h,m}'
+s.source_files = 'YG_ThunderPlayer/**/*.{h,m,xib,nib,bundle,png}'
 
 s.resource     = 'YG_ThunderPlayer/YG_ThunderPlayer.bundle'
 
