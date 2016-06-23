@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "YG_MediaView"
-s.version          = "0.0.4"
+s.version          = "0.0.5"
 s.summary          = "A MediaView used on iOS."
 s.description      = <<-DESC
 It is a cunstom MediaView used on iOS, which implement by Objective-C.
@@ -18,7 +18,7 @@ s.requires_arc = true
 
 s.source_files = 'YG_MediaView/**/*.{h,m}'
 
-
+s.resource     = 'YG_MediaView/YG_MediaView.bundle'
 
 s.frameworks = 'Foundation', 'AVFoundation', 'UIKit'
 
