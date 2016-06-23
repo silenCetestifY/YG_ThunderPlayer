@@ -1,2 +1,2 @@
-# YG_MediaView
-A Cunstom MediaView use for ios
+# YG_ThunderPlayer
+A Cunstom MediaPlayView use for ios
