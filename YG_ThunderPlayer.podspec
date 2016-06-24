@@ -16,9 +16,9 @@ s.platform     = :ios, '8.0'
 
 s.requires_arc = true
 
-s.source_files = 'YG_ThunderPlayer/**/*.{h,m,xib,nib,bundle}'
+s.source_files = 'YG_ThunderPlayer/**/*.{h,m}'
 
-s.resource     = 'YG_ThunderPlayer/YG_ThunderPlayer.bundle'
+s.resource     = 'YG_ThunderPlayer/**/*.{xib,nib,bundle}'
 
 s.frameworks = 'Foundation', 'AVFoundation', 'UIKit'
 
