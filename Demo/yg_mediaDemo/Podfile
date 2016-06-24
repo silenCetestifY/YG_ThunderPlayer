@@ -1,0 +1,8 @@
+platform :ios, "8.0"
+
+target 'yg_mediaDemo' do
+
+pod 'YG_ThunderPlayer'
+pod "MJRefresh"
+
+end
