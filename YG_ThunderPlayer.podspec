@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "YG_ThunderPlayer"
-s.version          = "0.1.2"
+s.version          = "0.1.3"
 s.summary          = "A MediaView used on iOS."
 s.description      = <<-DESC
 It is a cunstom MediaView used on iOS, which implement by Objective-C.
@@ -18,7 +18,7 @@ s.requires_arc = true
 
 s.source_files = 'YG_ThunderPlayer/**/*.{h,m}'
 
-s.resource     = 'YG_ThunderPlayer/**/*.{png,xib,nib,bundle}'
+s.resource     = 'YG_ThunderPlayer/resource/*.{png,xib,nib,bundle}'
 
 s.frameworks = 'Foundation', 'AVFoundation', 'UIKit'
 
