@@ -45,7 +45,7 @@
 + (instancetype)videoPlayView
 {
 //    return [[[NSBundle mainBundle] loadNibNamed:@"VideoPlayView" owner:nil options:nil] firstObject];
-    return [[KYGThunderPlayerBundle loadNibNamed:@"VideoPlayView" owner:self options:nil] lastObject];
+    return [[KYGThunderPlayerBundle loadNibNamed:@"VideoPlayView" owner:self options:nil] firstObject];
 }
 
 - (void)awakeFromNib
