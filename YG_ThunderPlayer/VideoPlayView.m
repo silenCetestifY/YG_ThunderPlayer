@@ -7,6 +7,7 @@
 //
 
 #import "VideoPlayView.h"
+#define KYGThunderPlayerBundle [NSBundle bundleForClass:[self class]]
 
 @interface VideoPlayView()
 
@@ -43,7 +44,8 @@
 // 快速创建View的方法
 + (instancetype)videoPlayView
 {
-    return [[[NSBundle mainBundle] loadNibNamed:@"VideoPlayView" owner:nil options:nil] firstObject];
+//    return [[[NSBundle mainBundle] loadNibNamed:@"VideoPlayView" owner:nil options:nil] firstObject];
+    return [[KYGThunderPlayerBundle loadNibNamed:@"VideoPlayView" owner:self options:nil] lastObject];
 }
 
 - (void)awakeFromNib
