@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "YG_ThunderPlayer"
-s.version          = "0.1.9"
+s.version          = "0.2.0"
 s.summary          = "A MediaView used on iOS."
 s.description      = <<-DESC
 It is a cunstom MediaView used on iOS, which implement by Objective-C.
