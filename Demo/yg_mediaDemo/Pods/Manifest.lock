@@ -1,15 +1,12 @@
 PODS:
-  - MJRefresh (3.1.9)
-  - YG_ThunderPlayer (0.1.7)
+  - YG_ThunderPlayer (0.2.0)
 
 DEPENDENCIES:
-  - MJRefresh
   - YG_ThunderPlayer
 
 SPEC CHECKSUMS:
-  MJRefresh: c5f1f1653e5a1b932c90f78074f2bc86f3f9bd5e
-  YG_ThunderPlayer: 014060715bd0f585ed30eab8ecfd487309bcef40
+  YG_ThunderPlayer: ce7b5bf179f69bf36605984b317bcb4c915fa24f
 
-PODFILE CHECKSUM: c788a1d1e659a27a8f0a5606cd2550099f63ecb3
+PODFILE CHECKSUM: 35019eb7a62d417cc064026d7006887d1a29936d
 
 COCOAPODS: 1.0.1

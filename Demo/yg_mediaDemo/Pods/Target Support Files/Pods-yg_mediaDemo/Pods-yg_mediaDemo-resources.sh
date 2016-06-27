@@ -80,7 +80,6 @@ EOM
   esac
 }
 if [[ "$CONFIGURATION" == "Debug" ]]; then
-  install_resource "MJRefresh/MJRefresh/MJRefresh.bundle"
   install_resource "YG_ThunderPlayer/YG_ThunderPlayer/resource/bg_media_default@3x.png"
   install_resource "YG_ThunderPlayer/YG_ThunderPlayer/resource/full_minimize_btn_hl@2x.png"
   install_resource "YG_ThunderPlayer/YG_ThunderPlayer/resource/full_minimize_btn_hl@3x.png"
@@ -97,7 +96,6 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_resource "YG_ThunderPlayer/YG_ThunderPlayer/resource/YG_ThunderPlayer.bundle"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
-  install_resource "MJRefresh/MJRefresh/MJRefresh.bundle"
   install_resource "YG_ThunderPlayer/YG_ThunderPlayer/resource/bg_media_default@3x.png"
   install_resource "YG_ThunderPlayer/YG_ThunderPlayer/resource/full_minimize_btn_hl@2x.png"
   install_resource "YG_ThunderPlayer/YG_ThunderPlayer/resource/full_minimize_btn_hl@3x.png"
