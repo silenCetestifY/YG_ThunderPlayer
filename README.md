@@ -14,7 +14,10 @@
 
 ###你可以将 playView 嵌入到Cell中
 
-<img src=http://chuantu.biz/t5/11/1466941618x1035372881.png width="375" height="667"><br>
+<img src=http://img.hoop8.com/1607A/uEjU4rJ4.png width="375" height="667"><br>
 
 ###可以实现全屏播放
-<img src=http://chuantu.biz/t5/11/1466942979x1035372881.png width="667" height="375"><br>
+<img src=http://img.hoop8.com/1607A/W6IDcRgX.png width="667" height="375"><br>
+
+###支持视频直播解析 .m3u8文件
+<img src=http://img.hoop8.com/1607A/EslO3wFY.png width="667" height="375"><br>
