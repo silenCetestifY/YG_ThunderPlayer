@@ -1,11 +1,11 @@
 PODS:
-  - YG_ThunderPlayer (0.2.0)
+  - YG_ThunderPlayer (0.2.5)
 
 DEPENDENCIES:
   - YG_ThunderPlayer
 
 SPEC CHECKSUMS:
-  YG_ThunderPlayer: ce7b5bf179f69bf36605984b317bcb4c915fa24f
+  YG_ThunderPlayer: 4c6748ceeea3cec35ddb82c1c10a8f5cb4ffee81
 
 PODFILE CHECKSUM: 35019eb7a62d417cc064026d7006887d1a29936d
 
