@@ -24,4 +24,6 @@
 
 @property (nonatomic, strong) AVPlayerItem *playerItem;
 
+- (void)removeProgressTimer;
+
 @end
